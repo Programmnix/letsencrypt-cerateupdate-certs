@@ -14,5 +14,6 @@ Usage:
   ./create-and-update-lets-encrypt-cert.sh www.example.tdl max.mustermann@example.com
   ```
 
- 
+This script can be used to create and renew the certs for your domain on your nginx-reverse-proxy: https://github.com/jwilder/nginx-proxy
+
 Feel free to fork this repro. :-)
